@@ -4,7 +4,7 @@ A simple command-line quiz game built using Python and Object-Oriented Programmi
 
 ## Screenshot
 
-![Quiz Game](screenshot.png)
+![Quiz Game](Screenshot.png)
 
 ## Features
 
