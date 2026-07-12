@@ -2,6 +2,10 @@
 
 A simple command-line quiz game built using Python and Object-Oriented Programming (OOP).
 
+## Screenshot
+
+![Quiz Game](screenshot.png)
+
 ## Features
 
 - Multiple-choice quiz
